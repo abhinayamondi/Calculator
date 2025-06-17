@@ -1,2 +1,23 @@
 # Calculator
-A simple calculator is a basic application that performs fundamental arithmetic operations such as addition, subtraction, multiplication, and division. It typically features a user-friendly interface where users can input numbers and select operations, displaying the results in real-time.
+# Simple Calculator
+
+A basic calculator that performs:
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+
+## Features
+
+- User-friendly interface
+- Real-time result display
+
+## Tech Stack
+
+- Language: Python
+
+## How to Run
+
+```bash
+python calculator.py
